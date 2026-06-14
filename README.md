@@ -54,5 +54,5 @@ An interactive **Customer Marketing Analytics Dashboard** built with Streamlit t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/marketing-dashboard.git
+git clone https://github.com/OmarMessaoud/marketing-dashboard.git
 cd marketing-dashboard
