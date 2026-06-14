@@ -6,7 +6,7 @@
 
 ## 🎯 Live Demo
 
-**Check out the live dashboard:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+**Check out the live dashboard:** (https://marketing-dashboard-mefvl98ntczxzamxagp4po.streamlit.app/))
 
 > *Replace `your-app-name` with your actual Streamlit app URL after deployment!*
 
